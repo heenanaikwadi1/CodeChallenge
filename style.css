@@ -1,0 +1,21 @@
+input{
+    padding: 5px;
+    font-size: inherit;
+    width: 100%;
+    
+}
+form{
+    border-redius:10px;
+    margine: 5px;
+    padding: 20px;
+    margine: auto;
+    width: auto;
+    }
+.btn{
+     cursor: pointer;
+     background-color: brown;
+     color: white;
+     padding: 7px;
+     width: auto;
+     border-radius: 5px;
+}

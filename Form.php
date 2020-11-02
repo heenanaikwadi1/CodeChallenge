@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<hrml>
+    <head>
+        <title>Enquary Form </title>
+        <link rel="stylesheet" type="text/css" href="style.css"
+              <style>
+        
+            }
+            div{
+                width: 100%;
+            }
+        </style>  
+    </head>
+    <body>
+            <form action="connect.php" method="post">
+            <h3>SIE HABEN FRAGEN? KONTAKTIEREN SIE UNS!</h3>
+            
+            <p>Gerne beantworten wir Ihre Fragen persönlich und telefonisch unter <b>0+49(0)7117191690</b> zu unseren Geschäftzeiten - oder Sie nutzen ganz bequem unser kontaktformular und wir setzen uns schnellstmöglich mit Ihnen in Verbindung.</p>
+            <div>
+                <lable for"name"><b>Namen*</b></lable> <br>
+                <input type="text" id="name" placeholder="Bitte geben Sie Ihren namen ein*" name="Name"  required >
+            <div> <br>
+                
+            <div>
+                <lable for"email"><b>Email*</b></lable>   <br>
+                <input type="email" id="email" placeholder="Bitte geben Sie Ihre E-mail Adresse ein*" name"Email" required>
+           </div> <br>
+
+                        
+            <div>
+                <lable for="telefone"><b>Telefon</b></lable> <br> 
+                <input type="tel" id="telefone" placeholder="Bitte geben Sie Ihr Telefon ein" name="Telefon">
+           </div> <br>
+
+        
+            <div>
+                <lable><b>Nachricht</b></lable> <br>
+                <textarea name="Nachricht für uns" rows="5" cols="136" name="Nachricht" ></textarea>
+             </div><br>
+
+            
+            <div>
+                <input class="btn" type="Submit" value="Nachricht senden" <br>  
+            </div>
+                
+        </form>
+    
+       </body>        
+       
+</hrml>
+  
