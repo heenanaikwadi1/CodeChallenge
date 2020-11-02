@@ -1,2 +1,0 @@
-# CodeChallenge
-Amanthos CodeChallenge
